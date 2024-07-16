@@ -1,0 +1,43 @@
+/* Custom Var */
+:root {
+	--temporary-border-outline: 3px dashed red;
+}
+
+/* Global settings */
+* {
+	box-sizing: border-box; /* border-box will make it so any padding will not effect the width */
+	padding: 0;
+	margin: 0;
+	outline: none;
+	border: none;
+	scroll-behavior: smooth;
+
+	letter-spacing: 1px;
+	color: whitesmoke;
+	font-family: "Inter", sans-serif;
+	font-weight: 500;
+}
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	min-height: 100lvh;
+	background-color: #1f2342;
+
+	overflow-x: hidden;
+}
+p {
+	font-size: 1rem;
+}
+ul,
+ol {
+	list-style: none;
+}
+
+/* Specific Styles */
+#root {
+	height: 100lvh;
+	width: 100vw;
+}

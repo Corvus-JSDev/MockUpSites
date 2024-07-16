@@ -1,0 +1,8 @@
+API site:
+https://developer.themoviedb.org/reference/movie-popular-list
+
+API key:
+3446b5af7f9163cc3a80ec888d3e9873
+
+API Read Access Token:
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNDQ2YjVhZjdmOTE2M2NjM2E4MGVjODg4ZDNlOTg3MyIsInN1YiI6IjY2NDNkYzE3OGEzOGIyZjUwMzMyODg2ZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.nPsUBniZRt28_ak8PmDws1_TKEq_jPRWG06G0EnDB5I
